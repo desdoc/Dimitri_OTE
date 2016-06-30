@@ -1,5 +1,4 @@
-# Dimitri_OTE
-Project for OTE
+BIS Export Data Portal
 
 Cleaning BIS Data of Proprietary Information for use on the BIS data portal to meet policy on Open Data
 
